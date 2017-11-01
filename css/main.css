@@ -76,6 +76,6 @@ body {
   .timer {
   	font-weight: lighter;
   }
-  #sales-carousel .carousel-inner .item img {
-      margin: 0 auto;
-}
+  #sales-carousel>.carousel-inner>.item>img {
+    margin: 0 auto;
+  }
